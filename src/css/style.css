@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: yellow;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+h1 {
+  margin: auto auto;
+  font-size: 50px; }
